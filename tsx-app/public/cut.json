@@ -1,0 +1,305 @@
+[
+{
+"22": {
+        "name": "Guild of Guardians Avatars #22",
+        "description": "",
+        "image": "https://guildofguardians.mypinata.cloud/ipfs/QmU5r9BWdeuS6HaxxcoP1P5Z9hdah17oQx81PfSBgoQEhp/22.png",
+        "attributes": [
+            {
+                "trait_type": "Back",
+                "value": "None"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Neutral"
+            },
+            {
+                "trait_type": "Face",
+                "value": ""
+            },
+            {
+                "trait_type": "Hair",
+                "value": "Crown"
+            },
+            {
+                "trait_type": "Main",
+                "value": "Human"
+            },
+            {
+                "trait_type": "Mouth",
+                "value": "Smile"
+            },
+            {
+                "trait_type": "Torso",
+                "value": "Roman Armor"
+            },
+            {
+                "trait_type": "Gender",
+                "value": "Male"
+            },
+            {
+                "trait_type": "Background",
+                "value": "Gray"
+            }
+        ]
+    },
+    "113": {
+        "name": "Guild of Guardians Avatars #113",
+        "description": "",
+        "image": "https://guildofguardians.mypinata.cloud/ipfs/QmU5r9BWdeuS6HaxxcoP1P5Z9hdah17oQx81PfSBgoQEhp/113.png",
+        "attributes": [
+            {
+                "trait_type": "Back",
+                "value": "Magic Dual Blades"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": ""
+            },
+            {
+                "trait_type": "Face",
+                "value": "Big Beard"
+            },
+            {
+                "trait_type": "Hair",
+                "value": "Crown"
+            },
+            {
+                "trait_type": "Main",
+                "value": "Human"
+            },
+            {
+                "trait_type": "Mouth",
+                "value": ""
+            },
+            {
+                "trait_type": "Torso",
+                "value": "Mail"
+            },
+            {
+                "trait_type": "Gender",
+                "value": "Male"
+            },
+            {
+                "trait_type": "Background",
+                "value": "Green"
+            }
+        ]
+    },
+    "343": {
+        "name": "Guild of Guardians Avatars #343",
+        "description": "",
+        "image": "https://guildofguardians.mypinata.cloud/ipfs/QmU5r9BWdeuS6HaxxcoP1P5Z9hdah17oQx81PfSBgoQEhp/343.png",
+        "attributes": [
+            {
+                "trait_type": "Back",
+                "value": "Staff"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Kind"
+            },
+            {
+                "trait_type": "Face",
+                "value": ""
+            },
+            {
+                "trait_type": "Hair",
+                "value": "Crown"
+            },
+            {
+                "trait_type": "Main",
+                "value": "Goblin"
+            },
+            {
+                "trait_type": "Mouth",
+                "value": "Smile With Teeth"
+            },
+            {
+                "trait_type": "Torso",
+                "value": "Scale Armor"
+            },
+            {
+                "trait_type": "Gender",
+                "value": "Male"
+            },
+            {
+                "trait_type": "Background",
+                "value": "Gray"
+            }
+        ]
+    },
+    "479": {
+        "name": "Guild of Guardians Avatars #479",
+        "description": "",
+        "image": "https://guildofguardians.mypinata.cloud/ipfs/QmU5r9BWdeuS6HaxxcoP1P5Z9hdah17oQx81PfSBgoQEhp/479.png",
+        "attributes": [
+            {
+                "trait_type": "Back",
+                "value": "None"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": ""
+            },
+            {
+                "trait_type": "Face",
+                "value": "Tatoo Middle"
+            },
+            {
+                "trait_type": "Hair",
+                "value": "Crown"
+            },
+            {
+                "trait_type": "Main",
+                "value": "Elf"
+            },
+            {
+                "trait_type": "Mouth",
+                "value": ""
+            },
+            {
+                "trait_type": "Torso",
+                "value": "Mail"
+            },
+            {
+                "trait_type": "Gender",
+                "value": "Male"
+            },
+            {
+                "trait_type": "Background",
+                "value": "Gray"
+            }
+        ]
+    },
+    "486": {
+        "name": "Guild of Guardians Avatars #486",
+        "description": "",
+        "image": "https://guildofguardians.mypinata.cloud/ipfs/QmU5r9BWdeuS6HaxxcoP1P5Z9hdah17oQx81PfSBgoQEhp/486.png",
+        "attributes": [
+            {
+                "trait_type": "Back",
+                "value": "None"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": ""
+            },
+            {
+                "trait_type": "Face",
+                "value": "Glow"
+            },
+            {
+                "trait_type": "Hair",
+                "value": "Crown"
+            },
+            {
+                "trait_type": "Main",
+                "value": "Skeleton"
+            },
+            {
+                "trait_type": "Mouth",
+                "value": "Gold Tooth"
+            },
+            {
+                "trait_type": "Torso",
+                "value": "Rogue Outfit"
+            },
+            {
+                "trait_type": "Gender",
+                "value": "Male"
+            },
+            {
+                "trait_type": "Background",
+                "value": "Violet"
+            }
+        ]
+    },
+    "569": {
+        "name": "Guild of Guardians Avatars #569",
+        "description": "",
+        "image": "https://guildofguardians.mypinata.cloud/ipfs/QmU5r9BWdeuS6HaxxcoP1P5Z9hdah17oQx81PfSBgoQEhp/569.png",
+        "attributes": [
+            {
+                "trait_type": "Back",
+                "value": "Barbarian Axe"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": ""
+            },
+            {
+                "trait_type": "Face",
+                "value": "Big Beard"
+            },
+            {
+                "trait_type": "Hair",
+                "value": "Crown"
+            },
+            {
+                "trait_type": "Main",
+                "value": "Human"
+            },
+            {
+                "trait_type": "Mouth",
+                "value": ""
+            },
+            {
+                "trait_type": "Torso",
+                "value": "Plate Armor"
+            },
+            {
+                "trait_type": "Gender",
+                "value": "Male"
+            },
+            {
+                "trait_type": "Background",
+                "value": "Gray"
+            }
+        ]
+    },
+    "578": {
+        "name": "Guild of Guardians Avatars #578",
+        "description": "",
+        "image": "https://guildofguardians.mypinata.cloud/ipfs/QmU5r9BWdeuS6HaxxcoP1P5Z9hdah17oQx81PfSBgoQEhp/578.png",
+        "attributes": [
+            {
+                "trait_type": "Back",
+                "value": "None"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Neutral"
+            },
+            {
+                "trait_type": "Face",
+                "value": ""
+            },
+            {
+                "trait_type": "Hair",
+                "value": "Crown"
+            },
+            {
+                "trait_type": "Main",
+                "value": "Orc"
+            },
+            {
+                "trait_type": "Mouth",
+                "value": "Lip Piercing"
+            },
+            {
+                "trait_type": "Torso",
+                "value": "Roman Armor"
+            },
+            {
+                "trait_type": "Gender",
+                "value": "Male"
+            },
+            {
+                "trait_type": "Background",
+                "value": "Blue"
+            }
+        ]
+    }
+}
+]
