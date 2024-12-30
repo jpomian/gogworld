@@ -1,12 +1,6 @@
 import Navbar from './components/Navbar'
 import Link from 'next/link'
-import { UnifrakturMaguntia } from 'next/font/google'
 
-const medievalFont = UnifrakturMaguntia({
-  weight: '400',
-  subsets: ['latin'],
-  display: 'swap',
-})
 
 export default function NotFound() {
   return (

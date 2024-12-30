@@ -16,7 +16,7 @@ const updateCounts = () => {
       return;
     }
 
-    let counts: Counts = JSON.parse(data);
+    const counts: Counts = JSON.parse(data);
     counts.weekCount += 1;
 
     if (counts.weekCount % 4 === 0) {

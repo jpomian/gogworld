@@ -8,7 +8,7 @@ interface CountdownProps {
   onComplete?: () => void;
 }
 
-const Countdown: React.FC<CountdownProps> = ({ startTime, endTime, onComplete }) => {
+const Countdown: React.FC<CountdownProps> = ({ endTime, onComplete }) => {
   const [timeLeft, setTimeLeft] = useState<number>(0);
 
   useEffect(() => {

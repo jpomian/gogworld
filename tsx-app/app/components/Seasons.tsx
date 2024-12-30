@@ -2,7 +2,6 @@
 
 import { useState, useEffect } from 'react';
 import Countdown from './Countdown';
-import { Counts } from '../lib/updateCounts';
 
 const Seasons: React.FC = () => {
   const [weekCount, setWeekCount] = useState<number>(0);

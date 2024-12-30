@@ -8,6 +8,15 @@ export default {
   ],
   theme: {
     extend: {
+      keyframes: {
+        flash: {
+          '0%, 100%': { opacity: '1'},
+          '50%': { opacity: '0.5' },
+        },
+      },
+      animation: {
+        flash: 'flash 500ms ease infinite alternate',
+      },
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",

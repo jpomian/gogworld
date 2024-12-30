@@ -1,4 +1,4 @@
-// File: /home/jpom/imx/avatars/tsx-app/app/layout.tsx
+// File: G:\WebDev\react\gogworld\tsx-app\app\layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
